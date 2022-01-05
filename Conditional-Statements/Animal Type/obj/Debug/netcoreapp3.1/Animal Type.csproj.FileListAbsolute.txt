@@ -1,0 +1,12 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.genruntimeconfig.cache

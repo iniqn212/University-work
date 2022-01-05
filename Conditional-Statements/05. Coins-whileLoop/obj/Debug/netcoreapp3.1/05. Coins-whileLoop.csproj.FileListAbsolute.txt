@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Coins-whileLoop\bin\Debug\netcoreapp3.1\05. Coins-whileLoop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Coins-whileLoop\bin\Debug\netcoreapp3.1\05. Coins-whileLoop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Coins-whileLoop\bin\Debug\netcoreapp3.1\05. Coins-whileLoop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Coins-whileLoop\bin\Debug\netcoreapp3.1\05. Coins-whileLoop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Coins-whileLoop\bin\Debug\netcoreapp3.1\05. Coins-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Coins-whileLoop\bin\Debug\netcoreapp3.1\05. Coins-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Coins-whileLoop\obj\Debug\netcoreapp3.1\05. Coins-whileLoop.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Coins-whileLoop\obj\Debug\netcoreapp3.1\05. Coins-whileLoop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Coins-whileLoop\obj\Debug\netcoreapp3.1\05. Coins-whileLoop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Coins-whileLoop\obj\Debug\netcoreapp3.1\05. Coins-whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Coins-whileLoop\obj\Debug\netcoreapp3.1\05. Coins-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Coins-whileLoop\obj\Debug\netcoreapp3.1\05. Coins-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Coins-whileLoop\obj\Debug\netcoreapp3.1\05. Coins-whileLoop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\01ARRexTrain\bin\Debug\netcoreapp3.1\01ARRexTrain.exe
+C:\Users\iniqn\source\repos\Fundamentals\01ARRexTrain\bin\Debug\netcoreapp3.1\01ARRexTrain.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\01ARRexTrain\bin\Debug\netcoreapp3.1\01ARRexTrain.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\01ARRexTrain\bin\Debug\netcoreapp3.1\01ARRexTrain.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\01ARRexTrain\bin\Debug\netcoreapp3.1\01ARRexTrain.dll
+C:\Users\iniqn\source\repos\Fundamentals\01ARRexTrain\bin\Debug\netcoreapp3.1\01ARRexTrain.pdb
+C:\Users\iniqn\source\repos\Fundamentals\01ARRexTrain\obj\Debug\netcoreapp3.1\01ARRexTrain.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\Fundamentals\01ARRexTrain\obj\Debug\netcoreapp3.1\01ARRexTrain.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\01ARRexTrain\obj\Debug\netcoreapp3.1\01ARRexTrain.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\01ARRexTrain\obj\Debug\netcoreapp3.1\01ARRexTrain.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\01ARRexTrain\obj\Debug\netcoreapp3.1\01ARRexTrain.dll
+C:\Users\iniqn\source\repos\Fundamentals\01ARRexTrain\obj\Debug\netcoreapp3.1\01ARRexTrain.pdb
+C:\Users\iniqn\source\repos\Fundamentals\01ARRexTrain\obj\Debug\netcoreapp3.1\01ARRexTrain.genruntimeconfig.cache

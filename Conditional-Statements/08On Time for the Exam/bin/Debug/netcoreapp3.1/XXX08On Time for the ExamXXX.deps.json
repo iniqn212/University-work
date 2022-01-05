@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "XXX08On Time for the ExamXXX/1.0.0": {
+        "runtime": {
+          "XXX08On Time for the ExamXXX.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XXX08On Time for the ExamXXX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

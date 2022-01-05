@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.exe
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.deps.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\08. Condense Array to Number\bin\Debug\netcoreapp3.1\08. Condense Array to Number.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\08. Condense Array to Number\obj\Debug\netcoreapp3.1\08. Condense Array to Number.genruntimeconfig.cache

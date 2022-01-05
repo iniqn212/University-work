@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Methods\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.exe
+C:\Users\iniqn\source\repos\Methods\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.deps.json
+C:\Users\iniqn\source\repos\Methods\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.json
+C:\Users\iniqn\source\repos\Methods\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Methods\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.dll
+C:\Users\iniqn\source\repos\Methods\05. Add and Subtract\bin\Debug\netcoreapp3.1\05. Add and Subtract.pdb
+C:\Users\iniqn\source\repos\Methods\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\Methods\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Methods\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Methods\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Methods\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.dll
+C:\Users\iniqn\source\repos\Methods\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.pdb
+C:\Users\iniqn\source\repos\Methods\05. Add and Subtract\obj\Debug\netcoreapp3.1\05. Add and Subtract.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\05.Character Sequence\bin\Debug\netcoreapp3.1\05.Character Sequence.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\05.Character Sequence\bin\Debug\netcoreapp3.1\05.Character Sequence.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05.Character Sequence\bin\Debug\netcoreapp3.1\05.Character Sequence.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05.Character Sequence\bin\Debug\netcoreapp3.1\05.Character Sequence.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05.Character Sequence\bin\Debug\netcoreapp3.1\05.Character Sequence.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\05.Character Sequence\bin\Debug\netcoreapp3.1\05.Character Sequence.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\05.Character Sequence\obj\Debug\netcoreapp3.1\05.Character Sequence.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05.Character Sequence\obj\Debug\netcoreapp3.1\05.Character Sequence.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05.Character Sequence\obj\Debug\netcoreapp3.1\05.Character Sequence.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\05.Character Sequence\obj\Debug\netcoreapp3.1\05.Character Sequence.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05.Character Sequence\obj\Debug\netcoreapp3.1\05.Character Sequence.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\05.Character Sequence\obj\Debug\netcoreapp3.1\05.Character Sequence.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\05.Character Sequence\obj\Debug\netcoreapp3.1\05.Character Sequence.genruntimeconfig.cache

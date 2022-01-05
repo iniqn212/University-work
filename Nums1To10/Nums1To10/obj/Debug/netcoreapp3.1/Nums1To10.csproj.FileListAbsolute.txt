@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Nums1To10\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.exe
+C:\Users\iniqn\source\repos\Nums1To10\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.deps.json
+C:\Users\iniqn\source\repos\Nums1To10\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.runtimeconfig.json
+C:\Users\iniqn\source\repos\Nums1To10\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Nums1To10\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.dll
+C:\Users\iniqn\source\repos\Nums1To10\Nums1To10\bin\Debug\netcoreapp3.1\Nums1To10.pdb
+C:\Users\iniqn\source\repos\Nums1To10\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Nums1To10\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Nums1To10\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Nums1To10\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Nums1To10\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.dll
+C:\Users\iniqn\source\repos\Nums1To10\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.pdb
+C:\Users\iniqn\source\repos\Nums1To10\Nums1To10\obj\Debug\netcoreapp3.1\Nums1To10.genruntimeconfig.cache

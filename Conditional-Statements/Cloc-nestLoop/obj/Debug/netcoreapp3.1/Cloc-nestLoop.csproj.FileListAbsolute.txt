@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\Cloc-nestLoop\bin\Debug\netcoreapp3.1\Cloc-nestLoop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\Cloc-nestLoop\bin\Debug\netcoreapp3.1\Cloc-nestLoop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Cloc-nestLoop\bin\Debug\netcoreapp3.1\Cloc-nestLoop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Cloc-nestLoop\bin\Debug\netcoreapp3.1\Cloc-nestLoop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Cloc-nestLoop\bin\Debug\netcoreapp3.1\Cloc-nestLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Cloc-nestLoop\bin\Debug\netcoreapp3.1\Cloc-nestLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Cloc-nestLoop\obj\Debug\netcoreapp3.1\Cloc-nestLoop.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Cloc-nestLoop\obj\Debug\netcoreapp3.1\Cloc-nestLoop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Cloc-nestLoop\obj\Debug\netcoreapp3.1\Cloc-nestLoop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\Cloc-nestLoop\obj\Debug\netcoreapp3.1\Cloc-nestLoop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Cloc-nestLoop\obj\Debug\netcoreapp3.1\Cloc-nestLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Cloc-nestLoop\obj\Debug\netcoreapp3.1\Cloc-nestLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Cloc-nestLoop\obj\Debug\netcoreapp3.1\Cloc-nestLoop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\06Operations Between Numbers\bin\Debug\netcoreapp3.1\06Operations Between Numbers.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\06Operations Between Numbers\bin\Debug\netcoreapp3.1\06Operations Between Numbers.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06Operations Between Numbers\bin\Debug\netcoreapp3.1\06Operations Between Numbers.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06Operations Between Numbers\bin\Debug\netcoreapp3.1\06Operations Between Numbers.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06Operations Between Numbers\bin\Debug\netcoreapp3.1\06Operations Between Numbers.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\06Operations Between Numbers\bin\Debug\netcoreapp3.1\06Operations Between Numbers.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\06Operations Between Numbers\obj\Debug\netcoreapp3.1\06Operations Between Numbers.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06Operations Between Numbers\obj\Debug\netcoreapp3.1\06Operations Between Numbers.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06Operations Between Numbers\obj\Debug\netcoreapp3.1\06Operations Between Numbers.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\06Operations Between Numbers\obj\Debug\netcoreapp3.1\06Operations Between Numbers.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06Operations Between Numbers\obj\Debug\netcoreapp3.1\06Operations Between Numbers.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\06Operations Between Numbers\obj\Debug\netcoreapp3.1\06Operations Between Numbers.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\06Operations Between Numbers\obj\Debug\netcoreapp3.1\06Operations Between Numbers.genruntimeconfig.cache

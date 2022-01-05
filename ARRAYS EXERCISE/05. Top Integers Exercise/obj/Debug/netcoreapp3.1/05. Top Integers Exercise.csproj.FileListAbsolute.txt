@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Top Integers Exercise\bin\Debug\netcoreapp3.1\05. Top Integers Exercise.exe
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Top Integers Exercise\bin\Debug\netcoreapp3.1\05. Top Integers Exercise.deps.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Top Integers Exercise\bin\Debug\netcoreapp3.1\05. Top Integers Exercise.runtimeconfig.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Top Integers Exercise\bin\Debug\netcoreapp3.1\05. Top Integers Exercise.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Top Integers Exercise\bin\Debug\netcoreapp3.1\05. Top Integers Exercise.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Top Integers Exercise\bin\Debug\netcoreapp3.1\05. Top Integers Exercise.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Top Integers Exercise\obj\Debug\netcoreapp3.1\05. Top Integers Exercise.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Top Integers Exercise\obj\Debug\netcoreapp3.1\05. Top Integers Exercise.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Top Integers Exercise\obj\Debug\netcoreapp3.1\05. Top Integers Exercise.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Top Integers Exercise\obj\Debug\netcoreapp3.1\05. Top Integers Exercise.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Top Integers Exercise\obj\Debug\netcoreapp3.1\05. Top Integers Exercise.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Top Integers Exercise\obj\Debug\netcoreapp3.1\05. Top Integers Exercise.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Top Integers Exercise\obj\Debug\netcoreapp3.1\05. Top Integers Exercise.genruntimeconfig.cache

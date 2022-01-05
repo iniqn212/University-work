@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\04Fishing Boat\bin\Debug\netcoreapp3.1\04Fishing Boat.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\04Fishing Boat\bin\Debug\netcoreapp3.1\04Fishing Boat.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\04Fishing Boat\bin\Debug\netcoreapp3.1\04Fishing Boat.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\04Fishing Boat\bin\Debug\netcoreapp3.1\04Fishing Boat.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\04Fishing Boat\bin\Debug\netcoreapp3.1\04Fishing Boat.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\04Fishing Boat\bin\Debug\netcoreapp3.1\04Fishing Boat.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\04Fishing Boat\obj\Debug\netcoreapp3.1\04Fishing Boat.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\04Fishing Boat\obj\Debug\netcoreapp3.1\04Fishing Boat.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\04Fishing Boat\obj\Debug\netcoreapp3.1\04Fishing Boat.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\04Fishing Boat\obj\Debug\netcoreapp3.1\04Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\04Fishing Boat\obj\Debug\netcoreapp3.1\04Fishing Boat.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\04Fishing Boat\obj\Debug\netcoreapp3.1\04Fishing Boat.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\04Fishing Boat\obj\Debug\netcoreapp3.1\04Fishing Boat.genruntimeconfig.cache

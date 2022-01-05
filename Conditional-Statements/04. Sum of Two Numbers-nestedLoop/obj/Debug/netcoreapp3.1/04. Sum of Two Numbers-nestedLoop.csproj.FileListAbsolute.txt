@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sum of Two Numbers-nestedLoop\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers-nestedLoop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sum of Two Numbers-nestedLoop\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers-nestedLoop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sum of Two Numbers-nestedLoop\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers-nestedLoop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sum of Two Numbers-nestedLoop\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers-nestedLoop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sum of Two Numbers-nestedLoop\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers-nestedLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sum of Two Numbers-nestedLoop\bin\Debug\netcoreapp3.1\04. Sum of Two Numbers-nestedLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sum of Two Numbers-nestedLoop\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers-nestedLoop.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sum of Two Numbers-nestedLoop\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers-nestedLoop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sum of Two Numbers-nestedLoop\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers-nestedLoop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sum of Two Numbers-nestedLoop\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers-nestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sum of Two Numbers-nestedLoop\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers-nestedLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sum of Two Numbers-nestedLoop\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers-nestedLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sum of Two Numbers-nestedLoop\obj\Debug\netcoreapp3.1\04. Sum of Two Numbers-nestedLoop.genruntimeconfig.cache

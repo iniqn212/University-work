@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\07. Sum Numbers\bin\Debug\netcoreapp3.1\08. Number sequence.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\07. Sum Numbers\bin\Debug\netcoreapp3.1\08. Number sequence.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\07. Sum Numbers\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\07. Sum Numbers\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\07. Sum Numbers\bin\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\07. Sum Numbers\bin\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\07. Sum Numbers\obj\Debug\netcoreapp3.1\08. Number sequence.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\07. Sum Numbers\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\07. Sum Numbers\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\07. Sum Numbers\obj\Debug\netcoreapp3.1\08. Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\07. Sum Numbers\obj\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\07. Sum Numbers\obj\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\07. Sum Numbers\obj\Debug\netcoreapp3.1\08. Number sequence.genruntimeconfig.cache

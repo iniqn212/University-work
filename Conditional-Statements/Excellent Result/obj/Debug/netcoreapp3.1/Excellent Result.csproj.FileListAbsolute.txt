@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.genruntimeconfig.cache

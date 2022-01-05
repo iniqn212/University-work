@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.genruntimeconfig.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.csprojAssemblyReference.cache

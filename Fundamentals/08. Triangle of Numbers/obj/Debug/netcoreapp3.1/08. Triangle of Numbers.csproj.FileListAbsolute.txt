@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.exe
+C:\Users\iniqn\source\repos\Fundamentals\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+C:\Users\iniqn\source\repos\Fundamentals\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb
+C:\Users\iniqn\source\repos\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+C:\Users\iniqn\source\repos\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb
+C:\Users\iniqn\source\repos\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.genruntimeconfig.cache

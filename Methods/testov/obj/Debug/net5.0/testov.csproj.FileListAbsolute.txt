@@ -1,0 +1,16 @@
+C:\Users\iniqn\source\repos\Methods\testov\bin\Debug\net5.0\testov.exe
+C:\Users\iniqn\source\repos\Methods\testov\bin\Debug\net5.0\testov.deps.json
+C:\Users\iniqn\source\repos\Methods\testov\bin\Debug\net5.0\testov.runtimeconfig.json
+C:\Users\iniqn\source\repos\Methods\testov\bin\Debug\net5.0\testov.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Methods\testov\bin\Debug\net5.0\testov.dll
+C:\Users\iniqn\source\repos\Methods\testov\bin\Debug\net5.0\ref\testov.dll
+C:\Users\iniqn\source\repos\Methods\testov\bin\Debug\net5.0\testov.pdb
+C:\Users\iniqn\source\repos\Methods\testov\obj\Debug\net5.0\testov.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\Methods\testov\obj\Debug\net5.0\testov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iniqn\source\repos\Methods\testov\obj\Debug\net5.0\testov.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Methods\testov\obj\Debug\net5.0\testov.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Methods\testov\obj\Debug\net5.0\testov.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Methods\testov\obj\Debug\net5.0\testov.dll
+C:\Users\iniqn\source\repos\Methods\testov\obj\Debug\net5.0\ref\testov.dll
+C:\Users\iniqn\source\repos\Methods\testov\obj\Debug\net5.0\testov.pdb
+C:\Users\iniqn\source\repos\Methods\testov\obj\Debug\net5.0\testov.genruntimeconfig.cache

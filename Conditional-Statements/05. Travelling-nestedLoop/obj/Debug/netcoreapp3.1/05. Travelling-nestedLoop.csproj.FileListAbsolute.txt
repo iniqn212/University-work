@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Travelling-nestedLoop\bin\Debug\netcoreapp3.1\05. Travelling-nestedLoop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Travelling-nestedLoop\bin\Debug\netcoreapp3.1\05. Travelling-nestedLoop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Travelling-nestedLoop\bin\Debug\netcoreapp3.1\05. Travelling-nestedLoop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Travelling-nestedLoop\bin\Debug\netcoreapp3.1\05. Travelling-nestedLoop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Travelling-nestedLoop\bin\Debug\netcoreapp3.1\05. Travelling-nestedLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Travelling-nestedLoop\bin\Debug\netcoreapp3.1\05. Travelling-nestedLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Travelling-nestedLoop\obj\Debug\netcoreapp3.1\05. Travelling-nestedLoop.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Travelling-nestedLoop\obj\Debug\netcoreapp3.1\05. Travelling-nestedLoop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Travelling-nestedLoop\obj\Debug\netcoreapp3.1\05. Travelling-nestedLoop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Travelling-nestedLoop\obj\Debug\netcoreapp3.1\05. Travelling-nestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Travelling-nestedLoop\obj\Debug\netcoreapp3.1\05. Travelling-nestedLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Travelling-nestedLoop\obj\Debug\netcoreapp3.1\05. Travelling-nestedLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Travelling-nestedLoop\obj\Debug\netcoreapp3.1\05. Travelling-nestedLoop.genruntimeconfig.cache

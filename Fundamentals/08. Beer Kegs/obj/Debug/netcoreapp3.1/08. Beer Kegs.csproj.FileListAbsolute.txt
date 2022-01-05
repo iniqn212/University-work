@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.exe
+C:\Users\iniqn\source\repos\Fundamentals\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.dll
+C:\Users\iniqn\source\repos\Fundamentals\08. Beer Kegs\bin\Debug\netcoreapp3.1\08. Beer Kegs.pdb
+C:\Users\iniqn\source\repos\Fundamentals\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.dll
+C:\Users\iniqn\source\repos\Fundamentals\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.pdb
+C:\Users\iniqn\source\repos\Fundamentals\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.genruntimeconfig.cache
+C:\Users\iniqn\source\repos\Fundamentals\08. Beer Kegs\obj\Debug\netcoreapp3.1\08. Beer Kegs.csprojAssemblyReference.cache

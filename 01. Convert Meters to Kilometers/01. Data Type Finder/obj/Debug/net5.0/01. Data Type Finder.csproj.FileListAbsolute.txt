@@ -1,0 +1,16 @@
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.exe
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.deps.json
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.runtimeconfig.json
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.dll
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\bin\Debug\net5.0\ref\01. Data Type Finder.dll
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.pdb
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.dll
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\obj\Debug\net5.0\ref\01. Data Type Finder.dll
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.pdb
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.genruntimeconfig.cache
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.csproj.AssemblyReference.cache

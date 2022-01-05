@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.exe
+C:\Users\iniqn\source\repos\Fundamentals\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.dll
+C:\Users\iniqn\source\repos\Fundamentals\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+C:\Users\iniqn\source\repos\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.dll
+C:\Users\iniqn\source\repos\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+C:\Users\iniqn\source\repos\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\bin\Debug\net5.0\03. TakeSkip Rope.exe
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\bin\Debug\net5.0\03. TakeSkip Rope.deps.json
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\bin\Debug\net5.0\03. TakeSkip Rope.runtimeconfig.json
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\bin\Debug\net5.0\03. TakeSkip Rope.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\bin\Debug\net5.0\03. TakeSkip Rope.dll
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\bin\Debug\net5.0\ref\03. TakeSkip Rope.dll
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\bin\Debug\net5.0\03. TakeSkip Rope.pdb
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.dll
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\obj\Debug\net5.0\ref\03. TakeSkip Rope.dll
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.pdb
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.genruntimeconfig.cache
+C:\Users\iniqn\source\repos\List\03. TakeSkip Rope\obj\Debug\net5.0\03. TakeSkip Rope.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\01.Old Books-whileLoop\bin\Debug\netcoreapp3.1\01.Old Books-whileLoop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\01.Old Books-whileLoop\bin\Debug\netcoreapp3.1\01.Old Books-whileLoop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\01.Old Books-whileLoop\bin\Debug\netcoreapp3.1\01.Old Books-whileLoop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\01.Old Books-whileLoop\bin\Debug\netcoreapp3.1\01.Old Books-whileLoop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\01.Old Books-whileLoop\bin\Debug\netcoreapp3.1\01.Old Books-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\01.Old Books-whileLoop\bin\Debug\netcoreapp3.1\01.Old Books-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\01.Old Books-whileLoop\obj\Debug\netcoreapp3.1\01.Old Books-whileLoop.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\01.Old Books-whileLoop\obj\Debug\netcoreapp3.1\01.Old Books-whileLoop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\01.Old Books-whileLoop\obj\Debug\netcoreapp3.1\01.Old Books-whileLoop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\01.Old Books-whileLoop\obj\Debug\netcoreapp3.1\01.Old Books-whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\01.Old Books-whileLoop\obj\Debug\netcoreapp3.1\01.Old Books-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\01.Old Books-whileLoop\obj\Debug\netcoreapp3.1\01.Old Books-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\01.Old Books-whileLoop\obj\Debug\netcoreapp3.1\01.Old Books-whileLoop.genruntimeconfig.cache

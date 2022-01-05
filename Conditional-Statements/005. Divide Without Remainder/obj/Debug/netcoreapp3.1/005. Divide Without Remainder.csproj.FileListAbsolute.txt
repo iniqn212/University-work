@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\005. Divide Without Remainder\bin\Debug\netcoreapp3.1\005. Divide Without Remainder.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\005. Divide Without Remainder\bin\Debug\netcoreapp3.1\005. Divide Without Remainder.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\005. Divide Without Remainder\bin\Debug\netcoreapp3.1\005. Divide Without Remainder.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\005. Divide Without Remainder\bin\Debug\netcoreapp3.1\005. Divide Without Remainder.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\005. Divide Without Remainder\bin\Debug\netcoreapp3.1\005. Divide Without Remainder.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\005. Divide Without Remainder\bin\Debug\netcoreapp3.1\005. Divide Without Remainder.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\005. Divide Without Remainder\obj\Debug\netcoreapp3.1\005. Divide Without Remainder.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\005. Divide Without Remainder\obj\Debug\netcoreapp3.1\005. Divide Without Remainder.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\005. Divide Without Remainder\obj\Debug\netcoreapp3.1\005. Divide Without Remainder.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\005. Divide Without Remainder\obj\Debug\netcoreapp3.1\005. Divide Without Remainder.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\005. Divide Without Remainder\obj\Debug\netcoreapp3.1\005. Divide Without Remainder.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\005. Divide Without Remainder\obj\Debug\netcoreapp3.1\005. Divide Without Remainder.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\005. Divide Without Remainder\obj\Debug\netcoreapp3.1\005. Divide Without Remainder.genruntimeconfig.cache

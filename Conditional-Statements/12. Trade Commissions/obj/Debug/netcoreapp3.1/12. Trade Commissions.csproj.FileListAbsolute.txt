@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\12. Trade Commissions\bin\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\12. Trade Commissions\obj\Debug\netcoreapp3.1\12. Trade Commissions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sequence 2k+1-whileLoop\bin\Debug\netcoreapp3.1\04. Sequence 2k+1-whileLoop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sequence 2k+1-whileLoop\bin\Debug\netcoreapp3.1\04. Sequence 2k+1-whileLoop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sequence 2k+1-whileLoop\bin\Debug\netcoreapp3.1\04. Sequence 2k+1-whileLoop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sequence 2k+1-whileLoop\bin\Debug\netcoreapp3.1\04. Sequence 2k+1-whileLoop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sequence 2k+1-whileLoop\bin\Debug\netcoreapp3.1\04. Sequence 2k+1-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sequence 2k+1-whileLoop\bin\Debug\netcoreapp3.1\04. Sequence 2k+1-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sequence 2k+1-whileLoop\obj\Debug\netcoreapp3.1\04. Sequence 2k+1-whileLoop.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sequence 2k+1-whileLoop\obj\Debug\netcoreapp3.1\04. Sequence 2k+1-whileLoop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sequence 2k+1-whileLoop\obj\Debug\netcoreapp3.1\04. Sequence 2k+1-whileLoop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sequence 2k+1-whileLoop\obj\Debug\netcoreapp3.1\04. Sequence 2k+1-whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sequence 2k+1-whileLoop\obj\Debug\netcoreapp3.1\04. Sequence 2k+1-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sequence 2k+1-whileLoop\obj\Debug\netcoreapp3.1\04. Sequence 2k+1-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Sequence 2k+1-whileLoop\obj\Debug\netcoreapp3.1\04. Sequence 2k+1-whileLoop.genruntimeconfig.cache

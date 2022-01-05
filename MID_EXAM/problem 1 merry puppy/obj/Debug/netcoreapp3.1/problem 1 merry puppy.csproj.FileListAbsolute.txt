@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\MID_EXAM\problem 1 merry puppy\bin\Debug\netcoreapp3.1\problem 1 merry puppy.exe
+C:\Users\iniqn\source\repos\MID_EXAM\problem 1 merry puppy\bin\Debug\netcoreapp3.1\problem 1 merry puppy.deps.json
+C:\Users\iniqn\source\repos\MID_EXAM\problem 1 merry puppy\bin\Debug\netcoreapp3.1\problem 1 merry puppy.runtimeconfig.json
+C:\Users\iniqn\source\repos\MID_EXAM\problem 1 merry puppy\bin\Debug\netcoreapp3.1\problem 1 merry puppy.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\MID_EXAM\problem 1 merry puppy\bin\Debug\netcoreapp3.1\problem 1 merry puppy.dll
+C:\Users\iniqn\source\repos\MID_EXAM\problem 1 merry puppy\bin\Debug\netcoreapp3.1\problem 1 merry puppy.pdb
+C:\Users\iniqn\source\repos\MID_EXAM\problem 1 merry puppy\obj\Debug\netcoreapp3.1\problem 1 merry puppy.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\MID_EXAM\problem 1 merry puppy\obj\Debug\netcoreapp3.1\problem 1 merry puppy.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\MID_EXAM\problem 1 merry puppy\obj\Debug\netcoreapp3.1\problem 1 merry puppy.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\MID_EXAM\problem 1 merry puppy\obj\Debug\netcoreapp3.1\problem 1 merry puppy.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\MID_EXAM\problem 1 merry puppy\obj\Debug\netcoreapp3.1\problem 1 merry puppy.dll
+C:\Users\iniqn\source\repos\MID_EXAM\problem 1 merry puppy\obj\Debug\netcoreapp3.1\problem 1 merry puppy.pdb
+C:\Users\iniqn\source\repos\MID_EXAM\problem 1 merry puppy\obj\Debug\netcoreapp3.1\problem 1 merry puppy.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.genruntimeconfig.cache

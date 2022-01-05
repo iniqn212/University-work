@@ -1,0 +1,16 @@
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.exe
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.deps.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.runtimeconfig.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\bin\Debug\net5.0\ref\05. Longest Increasing Subsequence.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\bin\Debug\net5.0\05. Longest Increasing Subsequence.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\obj\Debug\net5.0\ref\05. Longest Increasing Subsequence.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\05. Longest Increasing Subsequence\obj\Debug\net5.0\05. Longest Increasing Subsequence.genruntimeconfig.cache

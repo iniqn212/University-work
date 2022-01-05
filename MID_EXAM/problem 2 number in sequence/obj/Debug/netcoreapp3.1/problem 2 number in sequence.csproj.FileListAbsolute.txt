@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\MID_EXAM\problem 2 number in sequence\bin\Debug\netcoreapp3.1\problem 2 number in sequence.exe
+C:\Users\iniqn\source\repos\MID_EXAM\problem 2 number in sequence\bin\Debug\netcoreapp3.1\problem 2 number in sequence.deps.json
+C:\Users\iniqn\source\repos\MID_EXAM\problem 2 number in sequence\bin\Debug\netcoreapp3.1\problem 2 number in sequence.runtimeconfig.json
+C:\Users\iniqn\source\repos\MID_EXAM\problem 2 number in sequence\bin\Debug\netcoreapp3.1\problem 2 number in sequence.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\MID_EXAM\problem 2 number in sequence\bin\Debug\netcoreapp3.1\problem 2 number in sequence.dll
+C:\Users\iniqn\source\repos\MID_EXAM\problem 2 number in sequence\bin\Debug\netcoreapp3.1\problem 2 number in sequence.pdb
+C:\Users\iniqn\source\repos\MID_EXAM\problem 2 number in sequence\obj\Debug\netcoreapp3.1\problem 2 number in sequence.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\MID_EXAM\problem 2 number in sequence\obj\Debug\netcoreapp3.1\problem 2 number in sequence.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\MID_EXAM\problem 2 number in sequence\obj\Debug\netcoreapp3.1\problem 2 number in sequence.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\MID_EXAM\problem 2 number in sequence\obj\Debug\netcoreapp3.1\problem 2 number in sequence.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\MID_EXAM\problem 2 number in sequence\obj\Debug\netcoreapp3.1\problem 2 number in sequence.dll
+C:\Users\iniqn\source\repos\MID_EXAM\problem 2 number in sequence\obj\Debug\netcoreapp3.1\problem 2 number in sequence.pdb
+C:\Users\iniqn\source\repos\MID_EXAM\problem 2 number in sequence\obj\Debug\netcoreapp3.1\problem 2 number in sequence.genruntimeconfig.cache

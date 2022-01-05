@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\01. Moon\bin\Debug\netcoreapp3.1\01. Moon.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\01. Moon\bin\Debug\netcoreapp3.1\01. Moon.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\01. Moon\bin\Debug\netcoreapp3.1\01. Moon.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\01. Moon\bin\Debug\netcoreapp3.1\01. Moon.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\01. Moon\bin\Debug\netcoreapp3.1\01. Moon.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\01. Moon\bin\Debug\netcoreapp3.1\01. Moon.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\01. Moon\obj\Debug\netcoreapp3.1\01. Moon.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\01. Moon\obj\Debug\netcoreapp3.1\01. Moon.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\01. Moon\obj\Debug\netcoreapp3.1\01. Moon.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\01. Moon\obj\Debug\netcoreapp3.1\01. Moon.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\01. Moon\obj\Debug\netcoreapp3.1\01. Moon.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\01. Moon\obj\Debug\netcoreapp3.1\01. Moon.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\01. Moon\obj\Debug\netcoreapp3.1\01. Moon.genruntimeconfig.cache

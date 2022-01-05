@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.genruntimeconfig.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\iniqn\source\repos\List\01.messages\bin\Debug\net5.0\01.messages.exe
+C:\Users\iniqn\source\repos\List\01.messages\bin\Debug\net5.0\01.messages.deps.json
+C:\Users\iniqn\source\repos\List\01.messages\bin\Debug\net5.0\01.messages.runtimeconfig.json
+C:\Users\iniqn\source\repos\List\01.messages\bin\Debug\net5.0\01.messages.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\List\01.messages\bin\Debug\net5.0\01.messages.dll
+C:\Users\iniqn\source\repos\List\01.messages\bin\Debug\net5.0\ref\01.messages.dll
+C:\Users\iniqn\source\repos\List\01.messages\bin\Debug\net5.0\01.messages.pdb
+C:\Users\iniqn\source\repos\List\01.messages\obj\Debug\net5.0\01.messages.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\List\01.messages\obj\Debug\net5.0\01.messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iniqn\source\repos\List\01.messages\obj\Debug\net5.0\01.messages.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\List\01.messages\obj\Debug\net5.0\01.messages.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\List\01.messages\obj\Debug\net5.0\01.messages.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\List\01.messages\obj\Debug\net5.0\01.messages.dll
+C:\Users\iniqn\source\repos\List\01.messages\obj\Debug\net5.0\ref\01.messages.dll
+C:\Users\iniqn\source\repos\List\01.messages\obj\Debug\net5.0\01.messages.pdb
+C:\Users\iniqn\source\repos\List\01.messages\obj\Debug\net5.0\01.messages.genruntimeconfig.cache

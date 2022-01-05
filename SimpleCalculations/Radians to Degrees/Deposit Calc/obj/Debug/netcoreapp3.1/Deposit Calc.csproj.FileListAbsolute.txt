@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Deposit Calc\bin\Debug\netcoreapp3.1\Deposit Calc.exe
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Deposit Calc\bin\Debug\netcoreapp3.1\Deposit Calc.deps.json
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Deposit Calc\bin\Debug\netcoreapp3.1\Deposit Calc.runtimeconfig.json
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Deposit Calc\bin\Debug\netcoreapp3.1\Deposit Calc.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Deposit Calc\bin\Debug\netcoreapp3.1\Deposit Calc.dll
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Deposit Calc\bin\Debug\netcoreapp3.1\Deposit Calc.pdb
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Deposit Calc\obj\Debug\netcoreapp3.1\Deposit Calc.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Deposit Calc\obj\Debug\netcoreapp3.1\Deposit Calc.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Deposit Calc\obj\Debug\netcoreapp3.1\Deposit Calc.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Deposit Calc\obj\Debug\netcoreapp3.1\Deposit Calc.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Deposit Calc\obj\Debug\netcoreapp3.1\Deposit Calc.dll
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Deposit Calc\obj\Debug\netcoreapp3.1\Deposit Calc.pdb
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Deposit Calc\obj\Debug\netcoreapp3.1\Deposit Calc.genruntimeconfig.cache

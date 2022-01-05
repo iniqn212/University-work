@@ -1,0 +1,16 @@
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.exe
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.deps.json
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.json
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.dll
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\ref\01. Sign of Integer Numbers.dll
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.pdb
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.dll
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\ref\01. Sign of Integer Numbers.dll
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.pdb
+C:\Users\iniqn\source\repos\Methods\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.genruntimeconfig.cache

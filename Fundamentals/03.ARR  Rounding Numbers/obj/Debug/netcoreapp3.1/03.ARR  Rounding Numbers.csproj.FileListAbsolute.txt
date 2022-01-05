@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\03.ARR  Rounding Numbers\bin\Debug\netcoreapp3.1\03.ARR  Rounding Numbers.exe
+C:\Users\iniqn\source\repos\Fundamentals\03.ARR  Rounding Numbers\bin\Debug\netcoreapp3.1\03.ARR  Rounding Numbers.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\03.ARR  Rounding Numbers\bin\Debug\netcoreapp3.1\03.ARR  Rounding Numbers.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\03.ARR  Rounding Numbers\bin\Debug\netcoreapp3.1\03.ARR  Rounding Numbers.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\03.ARR  Rounding Numbers\bin\Debug\netcoreapp3.1\03.ARR  Rounding Numbers.dll
+C:\Users\iniqn\source\repos\Fundamentals\03.ARR  Rounding Numbers\bin\Debug\netcoreapp3.1\03.ARR  Rounding Numbers.pdb
+C:\Users\iniqn\source\repos\Fundamentals\03.ARR  Rounding Numbers\obj\Debug\netcoreapp3.1\03.ARR  Rounding Numbers.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\Fundamentals\03.ARR  Rounding Numbers\obj\Debug\netcoreapp3.1\03.ARR  Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\03.ARR  Rounding Numbers\obj\Debug\netcoreapp3.1\03.ARR  Rounding Numbers.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\03.ARR  Rounding Numbers\obj\Debug\netcoreapp3.1\03.ARR  Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\03.ARR  Rounding Numbers\obj\Debug\netcoreapp3.1\03.ARR  Rounding Numbers.dll
+C:\Users\iniqn\source\repos\Fundamentals\03.ARR  Rounding Numbers\obj\Debug\netcoreapp3.1\03.ARR  Rounding Numbers.pdb
+C:\Users\iniqn\source\repos\Fundamentals\03.ARR  Rounding Numbers\obj\Debug\netcoreapp3.1\03.ARR  Rounding Numbers.genruntimeconfig.cache

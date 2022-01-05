@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.genruntimeconfig.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.csprojAssemblyReference.cache

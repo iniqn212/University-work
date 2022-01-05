@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\MID_EXAM\Problem 3\bin\Debug\netcoreapp3.1\Problem 3 bad owner.exe
+C:\Users\iniqn\source\repos\MID_EXAM\Problem 3\bin\Debug\netcoreapp3.1\Problem 3 bad owner.deps.json
+C:\Users\iniqn\source\repos\MID_EXAM\Problem 3\bin\Debug\netcoreapp3.1\Problem 3 bad owner.runtimeconfig.json
+C:\Users\iniqn\source\repos\MID_EXAM\Problem 3\bin\Debug\netcoreapp3.1\Problem 3 bad owner.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\MID_EXAM\Problem 3\bin\Debug\netcoreapp3.1\Problem 3 bad owner.dll
+C:\Users\iniqn\source\repos\MID_EXAM\Problem 3\bin\Debug\netcoreapp3.1\Problem 3 bad owner.pdb
+C:\Users\iniqn\source\repos\MID_EXAM\Problem 3\obj\Debug\netcoreapp3.1\Problem 3 bad owner.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\MID_EXAM\Problem 3\obj\Debug\netcoreapp3.1\Problem 3 bad owner.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\MID_EXAM\Problem 3\obj\Debug\netcoreapp3.1\Problem 3 bad owner.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\MID_EXAM\Problem 3\obj\Debug\netcoreapp3.1\Problem 3 bad owner.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\MID_EXAM\Problem 3\obj\Debug\netcoreapp3.1\Problem 3 bad owner.dll
+C:\Users\iniqn\source\repos\MID_EXAM\Problem 3\obj\Debug\netcoreapp3.1\Problem 3 bad owner.pdb
+C:\Users\iniqn\source\repos\MID_EXAM\Problem 3\obj\Debug\netcoreapp3.1\Problem 3 bad owner.genruntimeconfig.cache

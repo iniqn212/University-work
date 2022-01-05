@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\Even Powers of 2\bin\Debug\netcoreapp3.1\Even Powers of 2.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\Even Powers of 2\bin\Debug\netcoreapp3.1\Even Powers of 2.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Even Powers of 2\bin\Debug\netcoreapp3.1\Even Powers of 2.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Even Powers of 2\bin\Debug\netcoreapp3.1\Even Powers of 2.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Even Powers of 2\bin\Debug\netcoreapp3.1\Even Powers of 2.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Even Powers of 2\bin\Debug\netcoreapp3.1\Even Powers of 2.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Even Powers of 2\obj\Debug\netcoreapp3.1\Even Powers of 2.genruntimeconfig.cache

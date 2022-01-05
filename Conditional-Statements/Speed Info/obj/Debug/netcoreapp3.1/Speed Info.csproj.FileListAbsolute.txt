@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.genruntimeconfig.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.csprojAssemblyReference.cache

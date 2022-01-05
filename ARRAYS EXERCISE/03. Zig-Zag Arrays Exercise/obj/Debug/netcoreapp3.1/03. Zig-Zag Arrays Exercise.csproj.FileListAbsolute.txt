@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\03. Zig-Zag Arrays Exercise\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays Exercise.exe
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\03. Zig-Zag Arrays Exercise\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays Exercise.deps.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\03. Zig-Zag Arrays Exercise\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays Exercise.runtimeconfig.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\03. Zig-Zag Arrays Exercise\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays Exercise.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\03. Zig-Zag Arrays Exercise\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays Exercise.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\03. Zig-Zag Arrays Exercise\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays Exercise.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\03. Zig-Zag Arrays Exercise\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays Exercise.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\03. Zig-Zag Arrays Exercise\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays Exercise.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\03. Zig-Zag Arrays Exercise\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays Exercise.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\03. Zig-Zag Arrays Exercise\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays Exercise.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\03. Zig-Zag Arrays Exercise\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays Exercise.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\03. Zig-Zag Arrays Exercise\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays Exercise.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\03. Zig-Zag Arrays Exercise\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays Exercise.genruntimeconfig.cache

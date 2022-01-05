@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.exe
+C:\Users\iniqn\source\repos\Fundamentals\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Users\iniqn\source\repos\Fundamentals\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Users\iniqn\source\repos\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Users\iniqn\source\repos\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Users\iniqn\source\repos\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.genruntimeconfig.cache

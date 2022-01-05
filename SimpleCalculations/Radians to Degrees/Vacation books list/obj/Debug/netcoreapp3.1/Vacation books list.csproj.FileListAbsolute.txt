@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Vacation books list\bin\Debug\netcoreapp3.1\Vacation books list.exe
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Vacation books list\bin\Debug\netcoreapp3.1\Vacation books list.deps.json
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Vacation books list\bin\Debug\netcoreapp3.1\Vacation books list.runtimeconfig.json
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Vacation books list\bin\Debug\netcoreapp3.1\Vacation books list.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Vacation books list\bin\Debug\netcoreapp3.1\Vacation books list.dll
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Vacation books list\bin\Debug\netcoreapp3.1\Vacation books list.pdb
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Vacation books list\obj\Debug\netcoreapp3.1\Vacation books list.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Vacation books list\obj\Debug\netcoreapp3.1\Vacation books list.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Vacation books list\obj\Debug\netcoreapp3.1\Vacation books list.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Vacation books list\obj\Debug\netcoreapp3.1\Vacation books list.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Vacation books list\obj\Debug\netcoreapp3.1\Vacation books list.dll
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Vacation books list\obj\Debug\netcoreapp3.1\Vacation books list.pdb
+C:\Users\iniqn\source\repos\SimpleCalculations\Radians to Degrees\Vacation books list\obj\Debug\netcoreapp3.1\Vacation books list.genruntimeconfig.cache

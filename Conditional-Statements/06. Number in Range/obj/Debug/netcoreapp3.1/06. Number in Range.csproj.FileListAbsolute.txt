@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Number in Range\bin\Debug\netcoreapp3.1\06. Number in Range.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Number in Range\obj\Debug\netcoreapp3.1\06. Number in Range.genruntimeconfig.cache

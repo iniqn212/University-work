@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\09. Kamino Factory Exercise\bin\Debug\netcoreapp3.1\09. Kamino Factory Exercise.exe
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\09. Kamino Factory Exercise\bin\Debug\netcoreapp3.1\09. Kamino Factory Exercise.deps.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\09. Kamino Factory Exercise\bin\Debug\netcoreapp3.1\09. Kamino Factory Exercise.runtimeconfig.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\09. Kamino Factory Exercise\bin\Debug\netcoreapp3.1\09. Kamino Factory Exercise.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\09. Kamino Factory Exercise\bin\Debug\netcoreapp3.1\09. Kamino Factory Exercise.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\09. Kamino Factory Exercise\bin\Debug\netcoreapp3.1\09. Kamino Factory Exercise.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\09. Kamino Factory Exercise\obj\Debug\netcoreapp3.1\09. Kamino Factory Exercise.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\09. Kamino Factory Exercise\obj\Debug\netcoreapp3.1\09. Kamino Factory Exercise.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\09. Kamino Factory Exercise\obj\Debug\netcoreapp3.1\09. Kamino Factory Exercise.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\09. Kamino Factory Exercise\obj\Debug\netcoreapp3.1\09. Kamino Factory Exercise.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\09. Kamino Factory Exercise\obj\Debug\netcoreapp3.1\09. Kamino Factory Exercise.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\09. Kamino Factory Exercise\obj\Debug\netcoreapp3.1\09. Kamino Factory Exercise.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\09. Kamino Factory Exercise\obj\Debug\netcoreapp3.1\09. Kamino Factory Exercise.genruntimeconfig.cache

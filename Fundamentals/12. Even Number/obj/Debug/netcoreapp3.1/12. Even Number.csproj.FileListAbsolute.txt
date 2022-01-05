@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.exe
+C:\Users\iniqn\source\repos\Fundamentals\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.dll
+C:\Users\iniqn\source\repos\Fundamentals\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.pdb
+C:\Users\iniqn\source\repos\Fundamentals\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Fundamentals\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.dll
+C:\Users\iniqn\source\repos\Fundamentals\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.pdb
+C:\Users\iniqn\source\repos\Fundamentals\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.genruntimeconfig.cache

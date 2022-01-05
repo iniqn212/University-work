@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\02. Common Elements Exersice\bin\Debug\netcoreapp3.1\02. Common Elements Exersice.exe
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\02. Common Elements Exersice\bin\Debug\netcoreapp3.1\02. Common Elements Exersice.deps.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\02. Common Elements Exersice\bin\Debug\netcoreapp3.1\02. Common Elements Exersice.runtimeconfig.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\02. Common Elements Exersice\bin\Debug\netcoreapp3.1\02. Common Elements Exersice.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\02. Common Elements Exersice\bin\Debug\netcoreapp3.1\02. Common Elements Exersice.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\02. Common Elements Exersice\bin\Debug\netcoreapp3.1\02. Common Elements Exersice.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\02. Common Elements Exersice\obj\Debug\netcoreapp3.1\02. Common Elements Exersice.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\02. Common Elements Exersice\obj\Debug\netcoreapp3.1\02. Common Elements Exersice.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\02. Common Elements Exersice\obj\Debug\netcoreapp3.1\02. Common Elements Exersice.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\02. Common Elements Exersice\obj\Debug\netcoreapp3.1\02. Common Elements Exersice.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\02. Common Elements Exersice\obj\Debug\netcoreapp3.1\02. Common Elements Exersice.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\02. Common Elements Exersice\obj\Debug\netcoreapp3.1\02. Common Elements Exersice.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\02. Common Elements Exersice\obj\Debug\netcoreapp3.1\02. Common Elements Exersice.genruntimeconfig.cache

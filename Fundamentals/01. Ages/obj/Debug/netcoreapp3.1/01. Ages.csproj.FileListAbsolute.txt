@@ -1,0 +1,12 @@
+C:\Users\iniqn\source\repos\Fundamentals\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.exe
+C:\Users\iniqn\source\repos\Fundamentals\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.dll
+C:\Users\iniqn\source\repos\Fundamentals\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.pdb
+C:\Users\iniqn\source\repos\Fundamentals\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.dll
+C:\Users\iniqn\source\repos\Fundamentals\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.pdb
+C:\Users\iniqn\source\repos\Fundamentals\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Multiplication Table-nestedLoop\bin\Debug\netcoreapp3.1\02. Multiplication Table-nestedLoop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Multiplication Table-nestedLoop\bin\Debug\netcoreapp3.1\02. Multiplication Table-nestedLoop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Multiplication Table-nestedLoop\bin\Debug\netcoreapp3.1\02. Multiplication Table-nestedLoop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Multiplication Table-nestedLoop\bin\Debug\netcoreapp3.1\02. Multiplication Table-nestedLoop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Multiplication Table-nestedLoop\bin\Debug\netcoreapp3.1\02. Multiplication Table-nestedLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Multiplication Table-nestedLoop\bin\Debug\netcoreapp3.1\02. Multiplication Table-nestedLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Multiplication Table-nestedLoop\obj\Debug\netcoreapp3.1\02. Multiplication Table-nestedLoop.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Multiplication Table-nestedLoop\obj\Debug\netcoreapp3.1\02. Multiplication Table-nestedLoop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Multiplication Table-nestedLoop\obj\Debug\netcoreapp3.1\02. Multiplication Table-nestedLoop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Multiplication Table-nestedLoop\obj\Debug\netcoreapp3.1\02. Multiplication Table-nestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Multiplication Table-nestedLoop\obj\Debug\netcoreapp3.1\02. Multiplication Table-nestedLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Multiplication Table-nestedLoop\obj\Debug\netcoreapp3.1\02. Multiplication Table-nestedLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Multiplication Table-nestedLoop\obj\Debug\netcoreapp3.1\02. Multiplication Table-nestedLoop.genruntimeconfig.cache

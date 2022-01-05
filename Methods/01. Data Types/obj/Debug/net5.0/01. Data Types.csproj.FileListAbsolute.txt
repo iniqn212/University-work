@@ -1,0 +1,16 @@
+C:\Users\iniqn\source\repos\Methods\01. Data Types\bin\Debug\net5.0\01. Data Types.exe
+C:\Users\iniqn\source\repos\Methods\01. Data Types\bin\Debug\net5.0\01. Data Types.deps.json
+C:\Users\iniqn\source\repos\Methods\01. Data Types\bin\Debug\net5.0\01. Data Types.runtimeconfig.json
+C:\Users\iniqn\source\repos\Methods\01. Data Types\bin\Debug\net5.0\01. Data Types.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Methods\01. Data Types\bin\Debug\net5.0\01. Data Types.dll
+C:\Users\iniqn\source\repos\Methods\01. Data Types\bin\Debug\net5.0\ref\01. Data Types.dll
+C:\Users\iniqn\source\repos\Methods\01. Data Types\bin\Debug\net5.0\01. Data Types.pdb
+C:\Users\iniqn\source\repos\Methods\01. Data Types\obj\Debug\net5.0\01. Data Types.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\Methods\01. Data Types\obj\Debug\net5.0\01. Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iniqn\source\repos\Methods\01. Data Types\obj\Debug\net5.0\01. Data Types.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Methods\01. Data Types\obj\Debug\net5.0\01. Data Types.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Methods\01. Data Types\obj\Debug\net5.0\01. Data Types.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Methods\01. Data Types\obj\Debug\net5.0\01. Data Types.dll
+C:\Users\iniqn\source\repos\Methods\01. Data Types\obj\Debug\net5.0\ref\01. Data Types.dll
+C:\Users\iniqn\source\repos\Methods\01. Data Types\obj\Debug\net5.0\01. Data Types.pdb
+C:\Users\iniqn\source\repos\Methods\01. Data Types\obj\Debug\net5.0\01. Data Types.genruntimeconfig.cache

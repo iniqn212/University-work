@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\08On Time for the Exam\bin\Debug\netcoreapp3.1\XXX08On Time for the ExamXXX.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\08On Time for the Exam\bin\Debug\netcoreapp3.1\XXX08On Time for the ExamXXX.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\08On Time for the Exam\bin\Debug\netcoreapp3.1\XXX08On Time for the ExamXXX.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\08On Time for the Exam\bin\Debug\netcoreapp3.1\XXX08On Time for the ExamXXX.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\08On Time for the Exam\bin\Debug\netcoreapp3.1\XXX08On Time for the ExamXXX.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\08On Time for the Exam\bin\Debug\netcoreapp3.1\XXX08On Time for the ExamXXX.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\08On Time for the Exam\obj\Debug\netcoreapp3.1\XXX08On Time for the ExamXXX.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\08On Time for the Exam\obj\Debug\netcoreapp3.1\XXX08On Time for the ExamXXX.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\08On Time for the Exam\obj\Debug\netcoreapp3.1\XXX08On Time for the ExamXXX.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\08On Time for the Exam\obj\Debug\netcoreapp3.1\XXX08On Time for the ExamXXX.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\08On Time for the Exam\obj\Debug\netcoreapp3.1\XXX08On Time for the ExamXXX.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\08On Time for the Exam\obj\Debug\netcoreapp3.1\XXX08On Time for the ExamXXX.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\08On Time for the Exam\obj\Debug\netcoreapp3.1\XXX08On Time for the ExamXXX.genruntimeconfig.cache

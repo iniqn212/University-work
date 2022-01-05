@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\Numbers 1N with Step 3\bin\Debug\netcoreapp3.1\03.Numbers 1N with Step 3.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\Numbers 1N with Step 3\bin\Debug\netcoreapp3.1\03.Numbers 1N with Step 3.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Numbers 1N with Step 3\bin\Debug\netcoreapp3.1\03.Numbers 1N with Step 3.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Numbers 1N with Step 3\bin\Debug\netcoreapp3.1\03.Numbers 1N with Step 3.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\Numbers 1N with Step 3\bin\Debug\netcoreapp3.1\03.Numbers 1N with Step 3.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Numbers 1N with Step 3\bin\Debug\netcoreapp3.1\03.Numbers 1N with Step 3.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03.Numbers 1N with Step 3.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03.Numbers 1N with Step 3.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03.Numbers 1N with Step 3.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03.Numbers 1N with Step 3.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03.Numbers 1N with Step 3.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03.Numbers 1N with Step 3.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\Numbers 1N with Step 3\obj\Debug\netcoreapp3.1\03.Numbers 1N with Step 3.genruntimeconfig.cache

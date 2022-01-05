@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.genruntimeconfig.cache

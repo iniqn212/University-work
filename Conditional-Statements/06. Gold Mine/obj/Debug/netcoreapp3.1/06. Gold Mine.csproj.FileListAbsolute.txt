@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.genruntimeconfig.cache

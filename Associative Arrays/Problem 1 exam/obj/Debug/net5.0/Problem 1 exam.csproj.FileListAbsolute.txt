@@ -1,0 +1,16 @@
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\bin\Debug\net5.0\Problem 1 exam.exe
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\bin\Debug\net5.0\Problem 1 exam.deps.json
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\bin\Debug\net5.0\Problem 1 exam.runtimeconfig.json
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\bin\Debug\net5.0\Problem 1 exam.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\bin\Debug\net5.0\Problem 1 exam.dll
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\bin\Debug\net5.0\ref\Problem 1 exam.dll
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\bin\Debug\net5.0\Problem 1 exam.pdb
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\obj\Debug\net5.0\Problem 1 exam.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\obj\Debug\net5.0\Problem 1 exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\obj\Debug\net5.0\Problem 1 exam.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\obj\Debug\net5.0\Problem 1 exam.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\obj\Debug\net5.0\Problem 1 exam.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\obj\Debug\net5.0\Problem 1 exam.dll
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\obj\Debug\net5.0\ref\Problem 1 exam.dll
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\obj\Debug\net5.0\Problem 1 exam.pdb
+C:\Users\iniqn\source\repos\Associative Arrays\Problem 1 exam\obj\Debug\net5.0\Problem 1 exam.genruntimeconfig.cache

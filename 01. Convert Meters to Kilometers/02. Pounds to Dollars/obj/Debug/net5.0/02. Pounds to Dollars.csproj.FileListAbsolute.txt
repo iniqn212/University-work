@@ -1,0 +1,15 @@
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.exe
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.deps.json
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.runtimeconfig.json
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.dll
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\net5.0\ref\02. Pounds to Dollars.dll
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.pdb
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.dll
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net5.0\ref\02. Pounds to Dollars.dll
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.pdb
+C:\Users\iniqn\source\repos\01. Convert Meters to Kilometers\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.genruntimeconfig.cache

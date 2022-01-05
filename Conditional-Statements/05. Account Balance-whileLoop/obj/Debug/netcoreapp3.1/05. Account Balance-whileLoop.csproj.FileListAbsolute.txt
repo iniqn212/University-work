@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Account Balance-whileLoop\bin\Debug\netcoreapp3.1\05. Account Balance-whileLoop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Account Balance-whileLoop\bin\Debug\netcoreapp3.1\05. Account Balance-whileLoop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Account Balance-whileLoop\bin\Debug\netcoreapp3.1\05. Account Balance-whileLoop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Account Balance-whileLoop\bin\Debug\netcoreapp3.1\05. Account Balance-whileLoop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Account Balance-whileLoop\bin\Debug\netcoreapp3.1\05. Account Balance-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Account Balance-whileLoop\bin\Debug\netcoreapp3.1\05. Account Balance-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Account Balance-whileLoop\obj\Debug\netcoreapp3.1\05. Account Balance-whileLoop.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Account Balance-whileLoop\obj\Debug\netcoreapp3.1\05. Account Balance-whileLoop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Account Balance-whileLoop\obj\Debug\netcoreapp3.1\05. Account Balance-whileLoop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Account Balance-whileLoop\obj\Debug\netcoreapp3.1\05. Account Balance-whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Account Balance-whileLoop\obj\Debug\netcoreapp3.1\05. Account Balance-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Account Balance-whileLoop\obj\Debug\netcoreapp3.1\05. Account Balance-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\05. Account Balance-whileLoop\obj\Debug\netcoreapp3.1\05. Account Balance-whileLoop.genruntimeconfig.cache

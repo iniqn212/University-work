@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\TimePlus15\obj\Debug\netcoreapp3.1\TimePlus15.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\TimePlus15\obj\Debug\netcoreapp3.1\TimePlus15.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\TimePlus15\obj\Debug\netcoreapp3.1\TimePlus15.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\TimePlus15\bin\Debug\netcoreapp3.1\TimePlus15.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\TimePlus15\bin\Debug\netcoreapp3.1\TimePlus15.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\TimePlus15\bin\Debug\netcoreapp3.1\TimePlus15.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\TimePlus15\bin\Debug\netcoreapp3.1\TimePlus15.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\TimePlus15\bin\Debug\netcoreapp3.1\TimePlus15.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\TimePlus15\bin\Debug\netcoreapp3.1\TimePlus15.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\TimePlus15\obj\Debug\netcoreapp3.1\TimePlus15.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\TimePlus15\obj\Debug\netcoreapp3.1\TimePlus15.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\TimePlus15\obj\Debug\netcoreapp3.1\TimePlus15.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\TimePlus15\obj\Debug\netcoreapp3.1\TimePlus15.genruntimeconfig.cache

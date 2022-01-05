@@ -1,0 +1,7 @@
+C:\Users\iniqn\source\repos\Fundamentals\1. Sort Numbers\bin\Debug\_1.Sort_Numbers.exe.config
+C:\Users\iniqn\source\repos\Fundamentals\1. Sort Numbers\bin\Debug\_1.Sort_Numbers.exe
+C:\Users\iniqn\source\repos\Fundamentals\1. Sort Numbers\bin\Debug\_1.Sort_Numbers.pdb
+C:\Users\iniqn\source\repos\Fundamentals\1. Sort Numbers\obj\Debug\1. Sort Numbers.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Fundamentals\1. Sort Numbers\obj\Debug\1. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\1. Sort Numbers\obj\Debug\_1.Sort_Numbers.exe
+C:\Users\iniqn\source\repos\Fundamentals\1. Sort Numbers\obj\Debug\_1.Sort_Numbers.pdb

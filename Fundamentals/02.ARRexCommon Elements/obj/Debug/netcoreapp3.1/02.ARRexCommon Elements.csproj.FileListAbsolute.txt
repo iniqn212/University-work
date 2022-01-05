@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\02.ARRexCommon Elements\bin\Debug\netcoreapp3.1\02.ARRexCommon Elements.exe
+C:\Users\iniqn\source\repos\Fundamentals\02.ARRexCommon Elements\bin\Debug\netcoreapp3.1\02.ARRexCommon Elements.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\02.ARRexCommon Elements\bin\Debug\netcoreapp3.1\02.ARRexCommon Elements.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\02.ARRexCommon Elements\bin\Debug\netcoreapp3.1\02.ARRexCommon Elements.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\02.ARRexCommon Elements\bin\Debug\netcoreapp3.1\02.ARRexCommon Elements.dll
+C:\Users\iniqn\source\repos\Fundamentals\02.ARRexCommon Elements\bin\Debug\netcoreapp3.1\02.ARRexCommon Elements.pdb
+C:\Users\iniqn\source\repos\Fundamentals\02.ARRexCommon Elements\obj\Debug\netcoreapp3.1\02.ARRexCommon Elements.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\Fundamentals\02.ARRexCommon Elements\obj\Debug\netcoreapp3.1\02.ARRexCommon Elements.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\02.ARRexCommon Elements\obj\Debug\netcoreapp3.1\02.ARRexCommon Elements.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\02.ARRexCommon Elements\obj\Debug\netcoreapp3.1\02.ARRexCommon Elements.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\02.ARRexCommon Elements\obj\Debug\netcoreapp3.1\02.ARRexCommon Elements.dll
+C:\Users\iniqn\source\repos\Fundamentals\02.ARRexCommon Elements\obj\Debug\netcoreapp3.1\02.ARRexCommon Elements.pdb
+C:\Users\iniqn\source\repos\Fundamentals\02.ARRexCommon Elements\obj\Debug\netcoreapp3.1\02.ARRexCommon Elements.genruntimeconfig.cache

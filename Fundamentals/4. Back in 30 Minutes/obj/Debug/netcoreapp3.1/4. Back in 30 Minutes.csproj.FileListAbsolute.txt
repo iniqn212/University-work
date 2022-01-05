@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.exe
+C:\Users\iniqn\source\repos\Fundamentals\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.dll
+C:\Users\iniqn\source\repos\Fundamentals\4. Back in 30 Minutes\bin\Debug\netcoreapp3.1\4. Back in 30 Minutes.pdb
+C:\Users\iniqn\source\repos\Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.dll
+C:\Users\iniqn\source\repos\Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.pdb
+C:\Users\iniqn\source\repos\Fundamentals\4. Back in 30 Minutes\obj\Debug\netcoreapp3.1\4. Back in 30 Minutes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Cake-whileLoop\bin\Debug\netcoreapp3.1\06. Cake-whileLoop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Cake-whileLoop\bin\Debug\netcoreapp3.1\06. Cake-whileLoop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Cake-whileLoop\bin\Debug\netcoreapp3.1\06. Cake-whileLoop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Cake-whileLoop\bin\Debug\netcoreapp3.1\06. Cake-whileLoop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Cake-whileLoop\bin\Debug\netcoreapp3.1\06. Cake-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Cake-whileLoop\bin\Debug\netcoreapp3.1\06. Cake-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Cake-whileLoop\obj\Debug\netcoreapp3.1\06. Cake-whileLoop.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Cake-whileLoop\obj\Debug\netcoreapp3.1\06. Cake-whileLoop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Cake-whileLoop\obj\Debug\netcoreapp3.1\06. Cake-whileLoop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Cake-whileLoop\obj\Debug\netcoreapp3.1\06. Cake-whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Cake-whileLoop\obj\Debug\netcoreapp3.1\06. Cake-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Cake-whileLoop\obj\Debug\netcoreapp3.1\06. Cake-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Cake-whileLoop\obj\Debug\netcoreapp3.1\06. Cake-whileLoop.genruntimeconfig.cache

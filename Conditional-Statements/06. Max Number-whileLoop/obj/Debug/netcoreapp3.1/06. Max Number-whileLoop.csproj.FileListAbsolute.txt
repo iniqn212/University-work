@@ -1,0 +1,12 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Max Number-whileLoop\bin\Debug\netcoreapp3.1\06. Max Number-whileLoop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Max Number-whileLoop\bin\Debug\netcoreapp3.1\06. Max Number-whileLoop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Max Number-whileLoop\bin\Debug\netcoreapp3.1\06. Max Number-whileLoop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Max Number-whileLoop\bin\Debug\netcoreapp3.1\06. Max Number-whileLoop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Max Number-whileLoop\bin\Debug\netcoreapp3.1\06. Max Number-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Max Number-whileLoop\bin\Debug\netcoreapp3.1\06. Max Number-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Max Number-whileLoop\obj\Debug\netcoreapp3.1\06. Max Number-whileLoop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Max Number-whileLoop\obj\Debug\netcoreapp3.1\06. Max Number-whileLoop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Max Number-whileLoop\obj\Debug\netcoreapp3.1\06. Max Number-whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Max Number-whileLoop\obj\Debug\netcoreapp3.1\06. Max Number-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Max Number-whileLoop\obj\Debug\netcoreapp3.1\06. Max Number-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Max Number-whileLoop\obj\Debug\netcoreapp3.1\06. Max Number-whileLoop.genruntimeconfig.cache

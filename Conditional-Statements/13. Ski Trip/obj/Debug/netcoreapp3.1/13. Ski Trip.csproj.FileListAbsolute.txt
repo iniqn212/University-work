@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\13. Ski Trip\bin\Debug\netcoreapp3.1\13. Ski Trip.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\13. Ski Trip\obj\Debug\netcoreapp3.1\13. Ski Trip.genruntimeconfig.cache

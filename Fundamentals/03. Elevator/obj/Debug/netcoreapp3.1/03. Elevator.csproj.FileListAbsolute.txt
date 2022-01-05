@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.exe
+C:\Users\iniqn\source\repos\Fundamentals\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.dll
+C:\Users\iniqn\source\repos\Fundamentals\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.pdb
+C:\Users\iniqn\source\repos\Fundamentals\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Fundamentals\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.dll
+C:\Users\iniqn\source\repos\Fundamentals\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.pdb
+C:\Users\iniqn\source\repos\Fundamentals\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.genruntimeconfig.cache

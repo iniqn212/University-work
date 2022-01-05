@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\07Hotel Room\bin\Debug\netcoreapp3.1\07Hotel Room.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\07Hotel Room\bin\Debug\netcoreapp3.1\07Hotel Room.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\07Hotel Room\bin\Debug\netcoreapp3.1\07Hotel Room.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\07Hotel Room\bin\Debug\netcoreapp3.1\07Hotel Room.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\07Hotel Room\bin\Debug\netcoreapp3.1\07Hotel Room.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\07Hotel Room\bin\Debug\netcoreapp3.1\07Hotel Room.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\07Hotel Room\obj\Debug\netcoreapp3.1\07Hotel Room.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\07Hotel Room\obj\Debug\netcoreapp3.1\07Hotel Room.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\07Hotel Room\obj\Debug\netcoreapp3.1\07Hotel Room.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\07Hotel Room\obj\Debug\netcoreapp3.1\07Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\07Hotel Room\obj\Debug\netcoreapp3.1\07Hotel Room.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\07Hotel Room\obj\Debug\netcoreapp3.1\07Hotel Room.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\07Hotel Room\obj\Debug\netcoreapp3.1\07Hotel Room.genruntimeconfig.cache

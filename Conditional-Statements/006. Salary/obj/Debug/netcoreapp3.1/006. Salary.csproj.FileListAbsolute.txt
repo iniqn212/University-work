@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\006. Salary\bin\Debug\netcoreapp3.1\006. Salary.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\006. Salary\bin\Debug\netcoreapp3.1\006. Salary.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\006. Salary\bin\Debug\netcoreapp3.1\006. Salary.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\006. Salary\bin\Debug\netcoreapp3.1\006. Salary.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\006. Salary\bin\Debug\netcoreapp3.1\006. Salary.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\006. Salary\bin\Debug\netcoreapp3.1\006. Salary.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\006. Salary\obj\Debug\netcoreapp3.1\006. Salary.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\006. Salary\obj\Debug\netcoreapp3.1\006. Salary.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\006. Salary\obj\Debug\netcoreapp3.1\006. Salary.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\006. Salary\obj\Debug\netcoreapp3.1\006. Salary.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\006. Salary\obj\Debug\netcoreapp3.1\006. Salary.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\006. Salary\obj\Debug\netcoreapp3.1\006. Salary.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\006. Salary\obj\Debug\netcoreapp3.1\006. Salary.genruntimeconfig.cache

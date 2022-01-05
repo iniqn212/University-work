@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.exe
+C:\Users\iniqn\source\repos\Fundamentals\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.dll
+C:\Users\iniqn\source\repos\Fundamentals\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.pdb
+C:\Users\iniqn\source\repos\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.dll
+C:\Users\iniqn\source\repos\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.pdb
+C:\Users\iniqn\source\repos\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.genruntimeconfig.cache

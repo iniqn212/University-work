@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Walking-whileLoop\bin\Debug\netcoreapp3.1\04. Walking-whileLoop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Walking-whileLoop\bin\Debug\netcoreapp3.1\04. Walking-whileLoop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Walking-whileLoop\bin\Debug\netcoreapp3.1\04. Walking-whileLoop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Walking-whileLoop\bin\Debug\netcoreapp3.1\04. Walking-whileLoop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Walking-whileLoop\bin\Debug\netcoreapp3.1\04. Walking-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Walking-whileLoop\bin\Debug\netcoreapp3.1\04. Walking-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Walking-whileLoop\obj\Debug\netcoreapp3.1\04. Walking-whileLoop.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Walking-whileLoop\obj\Debug\netcoreapp3.1\04. Walking-whileLoop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Walking-whileLoop\obj\Debug\netcoreapp3.1\04. Walking-whileLoop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Walking-whileLoop\obj\Debug\netcoreapp3.1\04. Walking-whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Walking-whileLoop\obj\Debug\netcoreapp3.1\04. Walking-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Walking-whileLoop\obj\Debug\netcoreapp3.1\04. Walking-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\04. Walking-whileLoop\obj\Debug\netcoreapp3.1\04. Walking-whileLoop.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\number 1to100\bin\Debug\netcoreapp3.1\number 1to100.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\number 1to100\bin\Debug\netcoreapp3.1\number 1to100.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\number 1to100\bin\Debug\netcoreapp3.1\number 1to100.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\number 1to100\bin\Debug\netcoreapp3.1\number 1to100.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\number 1to100\bin\Debug\netcoreapp3.1\number 1to100.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\number 1to100\bin\Debug\netcoreapp3.1\number 1to100.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\number 1to100\obj\Debug\netcoreapp3.1\number 1to100.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\number 1to100\obj\Debug\netcoreapp3.1\number 1to100.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\number 1to100\obj\Debug\netcoreapp3.1\number 1to100.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\number 1to100\obj\Debug\netcoreapp3.1\number 1to100.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\number 1to100\obj\Debug\netcoreapp3.1\number 1to100.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\number 1to100\obj\Debug\netcoreapp3.1\number 1to100.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Vacation-whileLoop\bin\Debug\netcoreapp3.1\03. Vacation-whileLoop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Vacation-whileLoop\bin\Debug\netcoreapp3.1\03. Vacation-whileLoop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Vacation-whileLoop\bin\Debug\netcoreapp3.1\03. Vacation-whileLoop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Vacation-whileLoop\bin\Debug\netcoreapp3.1\03. Vacation-whileLoop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Vacation-whileLoop\bin\Debug\netcoreapp3.1\03. Vacation-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Vacation-whileLoop\bin\Debug\netcoreapp3.1\03. Vacation-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Vacation-whileLoop\obj\Debug\netcoreapp3.1\03. Vacation-whileLoop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Vacation-whileLoop\obj\Debug\netcoreapp3.1\03. Vacation-whileLoop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Vacation-whileLoop\obj\Debug\netcoreapp3.1\03. Vacation-whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Vacation-whileLoop\obj\Debug\netcoreapp3.1\03. Vacation-whileLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Vacation-whileLoop\obj\Debug\netcoreapp3.1\03. Vacation-whileLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Vacation-whileLoop\obj\Debug\netcoreapp3.1\03. Vacation-whileLoop.genruntimeconfig.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\03. Vacation-whileLoop\obj\Debug\netcoreapp3.1\03. Vacation-whileLoop.csprojAssemblyReference.cache

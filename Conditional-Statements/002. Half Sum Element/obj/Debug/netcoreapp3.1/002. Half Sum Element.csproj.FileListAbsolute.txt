@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\002. Half Sum Element\obj\Debug\netcoreapp3.1\002. Half Sum Element.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\002. Half Sum Element\obj\Debug\netcoreapp3.1\002. Half Sum Element.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\002. Half Sum Element\obj\Debug\netcoreapp3.1\002. Half Sum Element.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\002. Half Sum Element\obj\Debug\netcoreapp3.1\002. Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\002. Half Sum Element\bin\Debug\netcoreapp3.1\002. Half Sum Element.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\002. Half Sum Element\bin\Debug\netcoreapp3.1\002. Half Sum Element.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\002. Half Sum Element\bin\Debug\netcoreapp3.1\002. Half Sum Element.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\002. Half Sum Element\bin\Debug\netcoreapp3.1\002. Half Sum Element.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\002. Half Sum Element\bin\Debug\netcoreapp3.1\002. Half Sum Element.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\002. Half Sum Element\bin\Debug\netcoreapp3.1\002. Half Sum Element.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\002. Half Sum Element\obj\Debug\netcoreapp3.1\002. Half Sum Element.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\002. Half Sum Element\obj\Debug\netcoreapp3.1\002. Half Sum Element.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\002. Half Sum Element\obj\Debug\netcoreapp3.1\002. Half Sum Element.genruntimeconfig.cache

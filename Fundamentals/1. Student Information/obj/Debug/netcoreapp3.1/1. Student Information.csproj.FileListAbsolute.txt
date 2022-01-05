@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\1. Student Information\bin\Debug\netcoreapp3.1\1. Student Information.exe
+C:\Users\iniqn\source\repos\Fundamentals\1. Student Information\bin\Debug\netcoreapp3.1\1. Student Information.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\1. Student Information\bin\Debug\netcoreapp3.1\1. Student Information.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\1. Student Information\bin\Debug\netcoreapp3.1\1. Student Information.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\1. Student Information\bin\Debug\netcoreapp3.1\1. Student Information.dll
+C:\Users\iniqn\source\repos\Fundamentals\1. Student Information\bin\Debug\netcoreapp3.1\1. Student Information.pdb
+C:\Users\iniqn\source\repos\Fundamentals\1. Student Information\obj\Debug\netcoreapp3.1\1. Student Information.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Fundamentals\1. Student Information\obj\Debug\netcoreapp3.1\1. Student Information.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\1. Student Information\obj\Debug\netcoreapp3.1\1. Student Information.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\1. Student Information\obj\Debug\netcoreapp3.1\1. Student Information.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\1. Student Information\obj\Debug\netcoreapp3.1\1. Student Information.dll
+C:\Users\iniqn\source\repos\Fundamentals\1. Student Information\obj\Debug\netcoreapp3.1\1. Student Information.pdb
+C:\Users\iniqn\source\repos\Fundamentals\1. Student Information\obj\Debug\netcoreapp3.1\1. Student Information.genruntimeconfig.cache

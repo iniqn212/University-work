@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Beer And Chips\bin\Debug\netcoreapp3.1\02. Beer And Chips.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Beer And Chips\bin\Debug\netcoreapp3.1\02. Beer And Chips.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Beer And Chips\bin\Debug\netcoreapp3.1\02. Beer And Chips.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Beer And Chips\bin\Debug\netcoreapp3.1\02. Beer And Chips.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Beer And Chips\bin\Debug\netcoreapp3.1\02. Beer And Chips.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Beer And Chips\bin\Debug\netcoreapp3.1\02. Beer And Chips.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\02. Beer And Chips\obj\Debug\netcoreapp3.1\02. Beer And Chips.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\testt\bin\Debug\netcoreapp3.1\testt.exe
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\testt\bin\Debug\netcoreapp3.1\testt.deps.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\testt\bin\Debug\netcoreapp3.1\testt.runtimeconfig.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\testt\bin\Debug\netcoreapp3.1\testt.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\testt\bin\Debug\netcoreapp3.1\testt.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\testt\bin\Debug\netcoreapp3.1\testt.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\testt\obj\Debug\netcoreapp3.1\testt.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\testt\obj\Debug\netcoreapp3.1\testt.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\testt\obj\Debug\netcoreapp3.1\testt.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\testt\obj\Debug\netcoreapp3.1\testt.dll
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\testt\obj\Debug\netcoreapp3.1\testt.pdb
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\testt\obj\Debug\netcoreapp3.1\testt.genruntimeconfig.cache
+C:\Users\iniqn\source\repos\ARRAYS EXERCISE\testt\obj\Debug\netcoreapp3.1\testt.csproj.AssemblyReference.cache

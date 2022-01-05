@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\13. Holliday between two days\bin\Debug\netcoreapp3.1\13. Holliday between two days.exe
+C:\Users\iniqn\source\repos\Fundamentals\13. Holliday between two days\bin\Debug\netcoreapp3.1\13. Holliday between two days.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\13. Holliday between two days\bin\Debug\netcoreapp3.1\13. Holliday between two days.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\13. Holliday between two days\bin\Debug\netcoreapp3.1\13. Holliday between two days.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\13. Holliday between two days\bin\Debug\netcoreapp3.1\13. Holliday between two days.dll
+C:\Users\iniqn\source\repos\Fundamentals\13. Holliday between two days\bin\Debug\netcoreapp3.1\13. Holliday between two days.pdb
+C:\Users\iniqn\source\repos\Fundamentals\13. Holliday between two days\obj\Debug\netcoreapp3.1\13. Holliday between two days.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\13. Holliday between two days\obj\Debug\netcoreapp3.1\13. Holliday between two days.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\13. Holliday between two days\obj\Debug\netcoreapp3.1\13. Holliday between two days.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\13. Holliday between two days\obj\Debug\netcoreapp3.1\13. Holliday between two days.dll
+C:\Users\iniqn\source\repos\Fundamentals\13. Holliday between two days\obj\Debug\netcoreapp3.1\13. Holliday between two days.pdb
+C:\Users\iniqn\source\repos\Fundamentals\13. Holliday between two days\obj\Debug\netcoreapp3.1\13. Holliday between two days.genruntimeconfig.cache
+C:\Users\iniqn\source\repos\Fundamentals\13. Holliday between two days\obj\Debug\netcoreapp3.1\13. Holliday between two days.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\iniqn\source\repos\Methods\ConsoleApp1\bin\Debug\netcoreapp3.1\07. NxN Matrix.exe
+C:\Users\iniqn\source\repos\Methods\ConsoleApp1\bin\Debug\netcoreapp3.1\07. NxN Matrix.deps.json
+C:\Users\iniqn\source\repos\Methods\ConsoleApp1\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.json
+C:\Users\iniqn\source\repos\Methods\ConsoleApp1\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Methods\ConsoleApp1\bin\Debug\netcoreapp3.1\07. NxN Matrix.dll
+C:\Users\iniqn\source\repos\Methods\ConsoleApp1\bin\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+C:\Users\iniqn\source\repos\Methods\ConsoleApp1\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Methods\ConsoleApp1\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Methods\ConsoleApp1\obj\Debug\netcoreapp3.1\07. NxN Matrix.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Methods\ConsoleApp1\obj\Debug\netcoreapp3.1\07. NxN Matrix.dll
+C:\Users\iniqn\source\repos\Methods\ConsoleApp1\obj\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+C:\Users\iniqn\source\repos\Methods\ConsoleApp1\obj\Debug\netcoreapp3.1\07. NxN Matrix.genruntimeconfig.cache

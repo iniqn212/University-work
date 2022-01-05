@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Building-nestedLoop\bin\Debug\netcoreapp3.1\06. Building-nestedLoop.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Building-nestedLoop\bin\Debug\netcoreapp3.1\06. Building-nestedLoop.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Building-nestedLoop\bin\Debug\netcoreapp3.1\06. Building-nestedLoop.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Building-nestedLoop\bin\Debug\netcoreapp3.1\06. Building-nestedLoop.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Building-nestedLoop\bin\Debug\netcoreapp3.1\06. Building-nestedLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Building-nestedLoop\bin\Debug\netcoreapp3.1\06. Building-nestedLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Building-nestedLoop\obj\Debug\netcoreapp3.1\06. Building-nestedLoop.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Building-nestedLoop\obj\Debug\netcoreapp3.1\06. Building-nestedLoop.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Building-nestedLoop\obj\Debug\netcoreapp3.1\06. Building-nestedLoop.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Building-nestedLoop\obj\Debug\netcoreapp3.1\06. Building-nestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Building-nestedLoop\obj\Debug\netcoreapp3.1\06. Building-nestedLoop.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Building-nestedLoop\obj\Debug\netcoreapp3.1\06. Building-nestedLoop.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\06. Building-nestedLoop\obj\Debug\netcoreapp3.1\06. Building-nestedLoop.genruntimeconfig.cache

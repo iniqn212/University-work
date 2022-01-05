@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Fundamentals\04. ARRexArray Rotation\bin\Debug\netcoreapp3.1\04. ARRexArray Rotation.exe
+C:\Users\iniqn\source\repos\Fundamentals\04. ARRexArray Rotation\bin\Debug\netcoreapp3.1\04. ARRexArray Rotation.deps.json
+C:\Users\iniqn\source\repos\Fundamentals\04. ARRexArray Rotation\bin\Debug\netcoreapp3.1\04. ARRexArray Rotation.runtimeconfig.json
+C:\Users\iniqn\source\repos\Fundamentals\04. ARRexArray Rotation\bin\Debug\netcoreapp3.1\04. ARRexArray Rotation.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Fundamentals\04. ARRexArray Rotation\bin\Debug\netcoreapp3.1\04. ARRexArray Rotation.dll
+C:\Users\iniqn\source\repos\Fundamentals\04. ARRexArray Rotation\bin\Debug\netcoreapp3.1\04. ARRexArray Rotation.pdb
+C:\Users\iniqn\source\repos\Fundamentals\04. ARRexArray Rotation\obj\Debug\netcoreapp3.1\04. ARRexArray Rotation.csproj.AssemblyReference.cache
+C:\Users\iniqn\source\repos\Fundamentals\04. ARRexArray Rotation\obj\Debug\netcoreapp3.1\04. ARRexArray Rotation.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\04. ARRexArray Rotation\obj\Debug\netcoreapp3.1\04. ARRexArray Rotation.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Fundamentals\04. ARRexArray Rotation\obj\Debug\netcoreapp3.1\04. ARRexArray Rotation.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Fundamentals\04. ARRexArray Rotation\obj\Debug\netcoreapp3.1\04. ARRexArray Rotation.dll
+C:\Users\iniqn\source\repos\Fundamentals\04. ARRexArray Rotation\obj\Debug\netcoreapp3.1\04. ARRexArray Rotation.pdb
+C:\Users\iniqn\source\repos\Fundamentals\04. ARRexArray Rotation\obj\Debug\netcoreapp3.1\04. ARRexArray Rotation.genruntimeconfig.cache

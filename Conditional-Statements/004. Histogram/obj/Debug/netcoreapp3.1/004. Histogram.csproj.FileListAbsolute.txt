@@ -1,0 +1,13 @@
+C:\Users\iniqn\source\repos\Conditional-Statements\004. Histogram\bin\Debug\netcoreapp3.1\004. Histogram.exe
+C:\Users\iniqn\source\repos\Conditional-Statements\004. Histogram\bin\Debug\netcoreapp3.1\004. Histogram.deps.json
+C:\Users\iniqn\source\repos\Conditional-Statements\004. Histogram\bin\Debug\netcoreapp3.1\004. Histogram.runtimeconfig.json
+C:\Users\iniqn\source\repos\Conditional-Statements\004. Histogram\bin\Debug\netcoreapp3.1\004. Histogram.runtimeconfig.dev.json
+C:\Users\iniqn\source\repos\Conditional-Statements\004. Histogram\bin\Debug\netcoreapp3.1\004. Histogram.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\004. Histogram\bin\Debug\netcoreapp3.1\004. Histogram.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\004. Histogram\obj\Debug\netcoreapp3.1\004. Histogram.csprojAssemblyReference.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\004. Histogram\obj\Debug\netcoreapp3.1\004. Histogram.AssemblyInfoInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\004. Histogram\obj\Debug\netcoreapp3.1\004. Histogram.AssemblyInfo.cs
+C:\Users\iniqn\source\repos\Conditional-Statements\004. Histogram\obj\Debug\netcoreapp3.1\004. Histogram.csproj.CoreCompileInputs.cache
+C:\Users\iniqn\source\repos\Conditional-Statements\004. Histogram\obj\Debug\netcoreapp3.1\004. Histogram.dll
+C:\Users\iniqn\source\repos\Conditional-Statements\004. Histogram\obj\Debug\netcoreapp3.1\004. Histogram.pdb
+C:\Users\iniqn\source\repos\Conditional-Statements\004. Histogram\obj\Debug\netcoreapp3.1\004. Histogram.genruntimeconfig.cache
